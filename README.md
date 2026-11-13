@@ -1,22 +1,41 @@
-# Object-Oriented_Software_Engineering_Laboratory
-The lab provides a hands-on environment where students learn to design, develop, test, and maintain software applications using OOP concepts and industry-standard practices.
+﻿# Object-Oriented Software Engineering Laboratory
 
-UML Class Diagram showing:
+[![License](https://img.shields.io/github/license/harisaravananm/Object-Oriented_Software_Engineering_Laboratory?style=for-the-badge)](https://github.com/harisaravananm/Object-Oriented_Software_Engineering_Laboratory/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/Object-Oriented_Software_Engineering_Laboratory?style=for-the-badge)](https://github.com/harisaravananm/Object-Oriented_Software_Engineering_Laboratory/commits/main)
 
-Laboratory class with attributes and methods
-Student class with enrollment details
-Project class with development info
-Relationships between classes (1-to-many)
+A practical laboratory resource for learning object-oriented design, software modeling, testing, and maintenance through structured examples and UML documentation.
 
-MS Basic Code that includes:
+## Table of Contents
 
-TYPE definitions for StudentType, ProjectType, and LaboratoryType
-Arrays to store students and projects
-Subroutines for initialization, data entry, and display
-Formatted output showing:
+- [Features](#features)
+- [Tech stack](#tech-stack)
+- [Quick start](#quick-start)
+- [Project structure](#project-structure)
+- [License](#license)
 
-Laboratory information
-Enrolled students with ID, name, email, batch
-Active projects with title, language, status
-Laboratory statistics
-OOP topics covered
+## Features
+
+- Clear project organization for learning, experimentation, or demonstration
+- Project-specific workflows documented below
+- Reproducible local setup instructions
+
+## Tech stack
+
+Object-oriented design, UML, Microsoft BASIC examples, and software engineering practices
+
+## Quick start
+
+Open `OOSE_1.docx` to review the laboratory exercise, UML class model, data structures, procedures, and expected output.
+
+## Project structure
+
+```text
+.
+|-- OOSE_1.docx
+|-- README.md
+`-- LICENSE
+```
+
+## License
+
+This project is distributed under the license in [LICENSE](LICENSE).
