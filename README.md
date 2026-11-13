@@ -1,7 +1,8 @@
-﻿# Object-Oriented Software Engineering Laboratory
+# Object-Oriented Software Engineering Laboratory
 
-[![License](https://img.shields.io/github/license/harisaravananm/Object-Oriented_Software_Engineering_Laboratory?style=for-the-badge)](https://github.com/harisaravananm/Object-Oriented_Software_Engineering_Laboratory/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/Object-Oriented_Software_Engineering_Laboratory?style=for-the-badge)](https://github.com/harisaravananm/Object-Oriented_Software_Engineering_Laboratory/commits/main)
+<!-- tech-version-badges -->
+![UML Design](https://img.shields.io/badge/UML-Design-1E88E5?style=for-the-badge) ![OOP Concepts](https://img.shields.io/badge/OOP-Concepts-6A1B9A?style=for-the-badge) ![Software Engineering](https://img.shields.io/badge/Software-Engineering-2EA44F?style=for-the-badge)
+<!-- /tech-version-badges -->
 
 A practical laboratory resource for learning object-oriented design, software modeling, testing, and maintenance through structured examples and UML documentation.
 
